@@ -1,2 +1,2 @@
 Simple ASP.NET Core 3.1 Web Api Sample (for learning purposes only)
-#Added JWT authentication
+# Added JWT authentication
