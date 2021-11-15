@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+// https://andrey.moveax.ru/post/asp-net-core-web-api-authentication-part-1-jwt
 // https://andrey.moveax.ru/post/asp-net-core-web-api-authentication-part-2-jwt-based-on-jws
 
 namespace OMSWebMini
